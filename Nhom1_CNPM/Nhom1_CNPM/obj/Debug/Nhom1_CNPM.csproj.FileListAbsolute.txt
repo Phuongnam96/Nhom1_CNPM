@@ -1,0 +1,11 @@
+C:\Users\hdtuy\Desktop\Nhom1_CNPM\Nhom1_CNPM\bin\Debug\Nhom1_CNPM.exe.config
+C:\Users\hdtuy\Desktop\Nhom1_CNPM\Nhom1_CNPM\bin\Debug\Nhom1_CNPM.exe
+C:\Users\hdtuy\Desktop\Nhom1_CNPM\Nhom1_CNPM\bin\Debug\Nhom1_CNPM.pdb
+C:\Users\hdtuy\Desktop\Nhom1_CNPM\Nhom1_CNPM\obj\Debug\Nhom1_CNPM.csprojResolveAssemblyReference.cache
+C:\Users\hdtuy\Desktop\Nhom1_CNPM\Nhom1_CNPM\obj\Debug\Nhom1_CNPM.Properties.Resources.resources
+C:\Users\hdtuy\Desktop\Nhom1_CNPM\Nhom1_CNPM\obj\Debug\Nhom1_CNPM.csproj.GenerateResource.Cache
+C:\Users\hdtuy\Desktop\Nhom1_CNPM\Nhom1_CNPM\obj\Debug\Nhom1_CNPM.exe
+C:\Users\hdtuy\Desktop\Nhom1_CNPM\Nhom1_CNPM\obj\Debug\Nhom1_CNPM.pdb
+C:\Users\hdtuy\Desktop\Nhom1_CNPM\Nhom1_CNPM\obj\Debug\Nhom1_CNPM.DangNhap.resources
+C:\Users\hdtuy\Desktop\Nhom1_CNPM\Nhom1_CNPM\obj\Debug\Nhom1_CNPM.Main.resources
+C:\Users\hdtuy\Desktop\Nhom1_CNPM\Nhom1_CNPM\obj\Debug\Nhom1_CNPM.QLSinhVien.resources
